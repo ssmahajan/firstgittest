@@ -1,7 +1,3 @@
 name:santosh mahajan 
 father name: shantaram mahajana
-
-
-pizza add
-
-add burger
+santosh
